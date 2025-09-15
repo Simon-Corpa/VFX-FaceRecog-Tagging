@@ -1,4 +1,4 @@
-# Script para VFX de face recognition & tagging
+# Script para VFX de Face Recognition & Tagging
 Este script se creo con la intención de incluirlo en el vídeo documental [Sumergidos en Atlántico](https://www.youtube.com/watch?v=JyahuAla-Dk) de Periferia Centro.
 La versión definitiva del vídeo no incluye el efecto para no sobrecargar la cadencia del montaje.
 
